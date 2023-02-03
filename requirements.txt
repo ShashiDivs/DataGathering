@@ -5,3 +5,6 @@ seaborn
 plotly
 requests
 openpyxl
+beautifulsoup4
+lxml
+yfinance
